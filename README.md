@@ -1,6 +1,6 @@
 ### Hi there, I'm Shivam Choudhary [website] 👋
 
-[![Website](https://img.shields.io/website?label=up&style=for-the-badge&url=upwork.com)](https://www.upwork.com/freelancers/~018aa2ee3521713a0e)
+[![Website](https://img.shields.io/website?label=upwork.com&style=for-the-badge&url=upwork.com)](https://www.upwork.com/freelancers/~018aa2ee3521713a0e)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ShiviChoudhar16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ShiviChoudhar16)
 
 
@@ -44,11 +44,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shivichoudhary's GitHub Stats" src="https://github-readme-stats.shivichoudhary.vercel.app/api?username=shivichoudhary&show_icons=true&hide_border=true" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" alt="shivichoudhary's GitHub Stats" src="https://github-readme-stats.anuraghazra.vercel.app/api?username=shivichoudhary&show_icons=true&hide_border=true" />
 
 </details>
+
 
 [Fiverr]: https://www.fiverr.com/shivi_choudhary
 [Upwork]: https://www.upwork.com/freelancers/~018aa2ee3521713a0e
