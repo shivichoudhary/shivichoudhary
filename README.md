@@ -1,6 +1,5 @@
 ### Hi there, I'm Shivam Choudhary👋
 
-[![Website](https://www.upwork.com/freelancers/~018aa2ee3521713a0e)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ShiviChoudhar16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ShiviChoudhar16)
 
 
