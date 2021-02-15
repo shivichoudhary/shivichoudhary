@@ -1,6 +1,6 @@
-### Hi there, I'm Shivam Choudhary [website] 👋
+### Hi there, I'm Shivam Choudhary👋
 
-[![Website](https://img.shields.io/website?label=upwork.com&style=for-the-badge&url=upwork.com)](https://www.upwork.com/freelancers/~018aa2ee3521713a0e)
+[![Website](https://www.upwork.com/freelancers/~018aa2ee3521713a0e)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ShiviChoudhar16?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/ShiviChoudhar16)
 
 
@@ -33,9 +33,9 @@
 
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 
 <br />
 <br />
